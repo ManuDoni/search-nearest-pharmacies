@@ -31,6 +31,11 @@ Keys of `.env` files are:
 - `PHARMACIES_REGISTRY_ORIGIN`: the url or path of the json file;
 - `PHARMACIES_REGISTRY_DISK`: the disk name of laravel storage (local, S3 ecc.). If the origin is a path and disk is null it will be used the default laravel disk.
 
+## Run project with Docker
+
+Run `docker run -d -p 80:80 manudoni/laravel-nearby-pharmacies` then send the above json payload to `http://localhost/api/v1/endpoint`
+
+
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
