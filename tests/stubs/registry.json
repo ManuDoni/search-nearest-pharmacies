@@ -1,0 +1,13 @@
+{"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.11105952,41.16866648]},"properties":{"Descrizione":"FARMACIA PADULA SNC DI PASQUALE PADULA E C."}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.0324625,41.10938993]},"properties":{"Descrizione":"Belmonte Di Dott.sse Belmonte S. Ed E. Snc"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.03335296,41.19565934]},"properties":{"Descrizione":"FLOVILLA MARIO"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.01483472,41.24274462]},"properties":{"Descrizione":"IORIO EMILIO"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.21756208,41.12243806]},"properties":{"Descrizione":"PAVONE GEMMA"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.0696704,40.8320479]},"properties":{"Descrizione":"TRILLO EREDI AMALIA TRILLO"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.02678871,40.87838031]},"properties":{"Descrizione":"DI LAURI DEL DR. CILIO SALVATORE DANIELE"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.1878778,40.877233]},"properties":{"Descrizione":"IORLANDO ROCCO"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.369655,40.844818]},"properties":{"Descrizione":"Farmacia Sant'Andrea Dei Dott.ri Angelino Anna E Calabrese Davide Giuseppe Snc"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.11105952,41.16866648]},"properties":{"Descrizione":"Farmacia Ciccarelli Del Dott. Mario Federico Ciccarelli S.a.s."}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.11105952,41.16866648]},"properties":{"Descrizione":"D'AMICO MARIA CRISTINA"}}
+]}
